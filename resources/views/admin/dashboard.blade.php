@@ -215,7 +215,7 @@
         <div class="w-full max-w-2xl bg-white rounded-2xl shadow-xl overflow-hidden">
             <div class="flex items-start justify-between px-5 py-4 border-b">
                 <div>
-                    <h3 id="modalTitle" class="text-lg font-semibold text-slate-800">Details</h3>
+                    <h3 id="modalTitle" class="text-lg font-semibold text-slate-800">Detail</h3>
                     <p id="modalSubTitle" class="text-sm text-slate-500"></p>
                 </div>
                 <button type="button"
